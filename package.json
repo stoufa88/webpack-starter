@@ -1,0 +1,17 @@
+{
+  "name": "undefined",
+  "version": "1.0.0",
+  "description": "Getting started with webpack",
+  "scripts": {
+    "dev": "webpack-dev-server --content-base build/"
+  },
+  "author": "Stoufa",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^1.14.1"
+  }
+}
